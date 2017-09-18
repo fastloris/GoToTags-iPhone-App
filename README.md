@@ -21,5 +21,5 @@ Please provide as much detail as possible including:
 ## NFC Tags
 NFC tags must be encoded to be able to be read by an iPhone. ([Read More](https://help.gototags.com/article/nfc-tags-iphone/))
 
-You can purchased encoded NFC tags from the [GoToTags Store](http://store.gototags.com/).
+You can purchase encoded NFC tags from the [GoToTags Store](http://store.gototags.com/).
 
