@@ -1,0 +1,54 @@
+/*
+ Strings.strings
+ GoToTags
+ 
+ Copyright © 2017 GoToTags. All rights reserved.
+ */
+
+/*** Spanish ***/
+
+// GENERAL
+"OK" = "OK";
+"Settings" = "Ajustes";
+"Alert" = "Alerta";
+"Text" = "Texto";
+"Cancel" = "Cancelar";
+"Learn More" = "Learn More";
+
+// NAV
+"Help" = "Ayuda";
+"Shop" = "Tienda";
+"Contact Us" = "Contact Us";
+"About Us" = "About Us";
+
+// HOME
+"Interact with Things" = "Interact with Things";
+"To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
+
+// TAGS
+"Decoding error" = "Decoding error";
+
+// NFC
+"Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
+"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
+"This feature is only available on iOS 11 and up" = "This feature is only available on iOS 11 and up";
+"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
+"NFC unavailable" = "NFC unavailable";
+
+// NFC record types
+"TNF_ABSOLUTE_URI" = "Absolute URI";
+"TNF_EMPTY" = "Empty";
+"TNF_EXTERNAL_TYPE" = "External Type";
+"TNF_MIME_MEDIA" = "MIME Type";
+"TNF_UNCHANGED" = "Unchanged";
+"TNF_UNKNOWN" = "Unknown Type";
+"TNF_WELL_KNOWN" = "Well Known";
+
+// BARCODE
+"Scan Barcode" = "Scan Barcode";
+"Scanning not supported" = "Scanning not supported";
+"Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
+
+// ACTIONS
+"Text copied to clipboard" = "Text copied to clipboard";
+
