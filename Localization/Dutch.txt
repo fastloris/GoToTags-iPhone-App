@@ -5,19 +5,19 @@
   Copyright © 2017 GoToTags. All rights reserved.
 */
 
-/*** Danish ***/
+/*** Dutch ***/
 
 // GENERAL
 "OK" = "OK";
-"Settings" = "Indstillinger";
-"Alert" = "Besked";
+"Settings" = "Instellingen";
+"Alert" = "Waarschuwing";
 "Text" = "Tekst";
-"Cancel" = "Annuller";
+"Cancel" = "Annuleren";
 "Learn More" = "Learn More";
 
 // NAV
-"Help" = "Hjælp";
-"Shop" = "Shop";
+"Help" = "Helpen";
+"Shop" = "Winkel";
 "Contact Us" = "Contact Us";
 "About Us" = "About Us";
 
@@ -45,7 +45,7 @@
 "TNF_WELL_KNOWN" = "Well Known";
 
 // BARCODE
-"Scan Barcode" = "Scan Barcode";
+"Scan Barcode" = "Barcode Scannen";
 "Scanning not supported" = "Scanning not supported";
 "Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
 
