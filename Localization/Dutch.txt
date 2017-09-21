@@ -5,19 +5,19 @@
   Copyright © 2017 GoToTags. All rights reserved.
 */
 
-/*** Dutch ***/
+/*** Danish ***/
 
 // GENERAL
 "OK" = "OK";
-"Settings" = "Instellingen";
-"Alert" = "Waarschuwing";
+"Settings" = "Indstillinger";
+"Alert" = "Besked";
 "Text" = "Tekst";
-"Cancel" = "Annuleren";
+"Cancel" = "Annuller";
 "Learn More" = "Learn More";
 
 // NAV
-"Help" = "Helpen";
-"Shop" = "Winkel";
+"Help" = "Hjælp";
+"Shop" = "Shop";
 "Contact Us" = "Contact Us";
 "About Us" = "About Us";
 
@@ -45,9 +45,17 @@
 "TNF_WELL_KNOWN" = "Well Known";
 
 // BARCODE
-"Scan Barcode" = "Barcode Scannen";
+"Scan Barcode" = "Scan Barcode";
 "Scanning not supported" = "Scanning not supported";
 "Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
 
 // ACTIONS
 "Text copied to clipboard" = "Text copied to clipboard";
+
+// SETTINGS
+"Tags" = "Tags";
+"Actions" = "Actions";
+"Settings" = "Settings";
+"Auto read tags when app opens" = "Auto read tags when app opens";
+"Auto search for text" = "Auto search for text";
+"Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
