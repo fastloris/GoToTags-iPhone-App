@@ -24,10 +24,10 @@
 
 // HOME
 "Interact with Things" = "Interactions avec les Choses";
-"To read an NFC tag or barcode, press one of the buttons below." = "Pour lire une marque NFC ou un code barre, appuyez sur l'un des boutons ci-dessous.";
+"To read an NFC tag or scan a barcode, press one of the buttons below." = "Pour lire une marque NFC ou un code barre, appuyez sur l'un des boutons ci-dessous.";
 
 // TAGS
-"There was an error with the decoding of this tag" = "il y a eu une erreur avec le décodage de cette marque";
+"An error occured decoding this tag" = "Il y a eu une erreur avec le décodage de cette marque";
 
 // NFC
 "Touch top of phone to NFC tag" = "Touche tactile supérieur jusque marque NFC";
@@ -40,8 +40,8 @@
 "TNF_EMPTY" = "Vide";
 "TNF_EXTERNAL_TYPE" = "Type externe";
 "TNF_MIME_MEDIA" = "Media MIME";
-"TNF_UNCHANGED" = "inchangé";
-"TNF_UNKNOWN" = "type inconnu";
+"TNF_UNCHANGED" = "Inchangé";
+"TNF_UNKNOWN" = "Type inconnu";
 "TNF_WELL_KNOWN" = "Bien connu";
 
 // BARCODE
@@ -55,8 +55,9 @@
 "An error occured decoding this tag" = "Une erreur est apparu en décodant la marque";
 
 // SETTINGS - Paramètres
-"Tags" = "marques";
+"Tags" = "Marques";
 "Actions" = "Actions";
-"Settings" = "paramètres";
-"Read tag when app opens" = "lecture automatique quand l'app est ouverte";
-"Auto search for text" = "recherche automatique de texte"; to clipboard" = "Auto copy tag data to clipboard";
+"Settings" = "Paramètres";
+"Read tag when app opens" = "Lecture automatique quand l'app est ouverte";
+"Auto search for text" = "Recherche automatique de texte"; 
+"Auto copy tag data to clipboard" = "Copiage automatique de la marque dans le presse-papier";
