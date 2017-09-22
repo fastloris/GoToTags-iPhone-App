@@ -13,7 +13,7 @@
 "Alert" = "Alerte";
 "Text" = "Texte";
 "Cancel" = "Annuler";
-"More Information" = "Plus d'Informations";
+"Learn More" = "Plus d'Informations";
 "Error" = "Erreur";
 
 // NAV
