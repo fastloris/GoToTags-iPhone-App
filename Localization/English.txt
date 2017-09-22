@@ -57,7 +57,7 @@
 "Tags" = "Tags";
 "Actions" = "Actions";
 "Settings" = "Settings";
-"Auto read tags when app opens" = "Auto read tags when app opens";
+"Read tag when app opens" = "Read tag when app opens";
 "Auto search for text" = "Auto search for text";
 "Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
 
