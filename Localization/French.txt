@@ -54,7 +54,7 @@
 "Error" = "Erreur";
 "An error occured decoding this tag" = "Une erreur est apparu en décodant la marque";
 
-// SETTINGS - Paramètres
+// SETTINGS
 "Tags" = "Marques";
 "Actions" = "Actions";
 "Settings" = "Paramètres";
