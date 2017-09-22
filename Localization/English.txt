@@ -14,6 +14,7 @@
 "Text" = "Text";
 "Cancel" = "Cancel";
 "Learn More" = "Learn More";
+"Error" = "Error";
 
 // NAV
 "Help" = "Help";
@@ -26,7 +27,7 @@
 "To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
 
 // TAGS
-"Decoding error" = "Decoding error";
+"An error occured decoding this tag" = "An error occured decoding this tag";
 
 // NFC
 "Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
@@ -59,3 +60,4 @@
 "Auto read tags when app opens" = "Auto read tags when app opens";
 "Auto search for text" = "Auto search for text";
 "Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
+

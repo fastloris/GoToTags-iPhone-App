@@ -14,6 +14,7 @@
 "Text" = "Tekst";
 "Cancel" = "Annuller";
 "Learn More" = "Learn More";
+"Error" = "Fejl";
 
 // NAV
 "Help" = "Hjælp";
@@ -26,7 +27,7 @@
 "To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
 
 // TAGS
-"Decoding error" = "Decoding error";
+"An error occured decoding this tag" = "An error occured decoding this tag";
 
 // NFC
 "Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
@@ -51,6 +52,8 @@
 
 // ACTIONS
 "Text copied to clipboard" = "Text copied to clipboard";
+"Error" = "Error";
+"An error occured decoding this tag" = "An error occured decoding this tag";
 
 // SETTINGS
 "Tags" = "Tags";
