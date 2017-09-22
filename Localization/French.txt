@@ -47,7 +47,7 @@
 // BARCODE
 "Scan Barcode" = " Barcode à scanner";
 "Scanning not supported" = "Scanning pas supporté";
-"Your device does not support barcode scanning; please use a device with a camera." = "Votre appareil ne supporte pas le scanning des codes barre; Veuillez utiliser un appareil avec caméra";
+"Your device does not support barcode scanning; please use a device with a camera." = "Votre appareil ne supporte pas le scanning des codes barre; Veuillez utiliser un appareil avec caméra.";
 
 // ACTIONS
 "Text copied to clipboard" = "Texte copié dans le presse-papier";
