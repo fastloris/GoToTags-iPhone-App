@@ -58,6 +58,6 @@
 "Tags" = "marques";
 "Actions" = "Actions";
 "Settings" = "paramètres";
-"Auto read tags when app opens" = "lecture automatique quand l'app est ouverte";
+"Read tag when app opens" = "lecture automatique quand l'app est ouverte";
 "Auto search for text" = "recherche automatique de texte";
 "Auto copy tag data to clipboard" = "copiage automatique de la marque dans le presse-papier";
