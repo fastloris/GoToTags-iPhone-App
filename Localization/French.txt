@@ -13,52 +13,51 @@
 "Alert" = "Alerte";
 "Text" = "Texte";
 "Cancel" = "Annuler";
-"Learn More" = "Learn More";
+"More Information" = "Plus d'Informations";
 "Error" = "Erreur";
 
 // NAV
 "Help" = "Aide";
 "Shop" = "Boutique";
-"Contact Us" = "Contact Us";
-"About Us" = "About Us";
+"Contact Us" = "Contactez-nous";
+"About Us" = "À propos de nous";
 
 // HOME
-"Interact with Things" = "Interact with Things";
-"To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
+"Interact with Things" = "Interactions avec les Choses";
+"To read an NFC tag or barcode, press one of the buttons below." = "Pour lire une marque "NFC" ou un code barre, appuyez sur l'un des boutons ci-dessous.";
 
 // TAGS
-"An error occured decoding this tag" = "An error occured decoding this tag";
+"There was an error with the decoding of this tag" = "il y a eu une erreur avec le décodage de cette marque";
 
 // NFC
-"Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
-"This feature is only available on iOS 11 and up" = "This feature is only available on iOS 11 and up";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
-"NFC unavailable" = "NFC unavailable";
+"Touch top of phone to NFC tag" = "Touche tactile supérieur jusque marque "NFC";
+"This device does not support reading NFC tags" = "Cet appareil ne permet pas la lecture des marques "NFC";
+"This feature is only available on iOS 11 and up" = "Cette fonctionnalité est valable seulement sur IOS 11 et au delà";
+"NFC unavailable" = "NFC indisponible";
 
 // NFC record types
-"TNF_ABSOLUTE_URI" = "Absolute URI";
-"TNF_EMPTY" = "Empty";
-"TNF_EXTERNAL_TYPE" = "External Type";
-"TNF_MIME_MEDIA" = "MIME Type";
-"TNF_UNCHANGED" = "Unchanged";
-"TNF_UNKNOWN" = "Unknown Type";
-"TNF_WELL_KNOWN" = "Well Known";
+"TNF_ABSOLUTE_URI" = "TNF Absolu URI";
+"TNF_EMPTY" = "Vide";
+"TNF_EXTERNAL_TYPE" = "Type externe";
+"TNF_MIME_MEDIA" = "Media MIME";
+"TNF_UNCHANGED" = "inchangé";
+"TNF_UNKNOWN" = "type inconnu";
+"TNF_WELL_KNOWN" = "Bien connu";
 
 // BARCODE
-"Scan Barcode" = "Scan Barcode";
-"Scanning not supported" = "Scanning not supported";
-"Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
+"Scan Barcode" = " Barcode à scanner";
+"Scanning not supported" = "Scanning pas supporté";
+"Your device does not support barcode scanning; please use a device with a camera." = "Votre appareil ne supporte pas le scanning des codes barre; Veuillez utiliser un appareil avec caméra";
 
 // ACTIONS
-"Text copied to clipboard" = "Text copied to clipboard";
-"Error" = "Error";
-"An error occured decoding this tag" = "An error occured decoding this tag";
+"Text copied to clipboard" = "Texte copié dans le presse-papier";
+"Error" = "Erreur";
+"An error occured decoding this tag" = "Une erreur est apparu en décodant la marque";
 
-// SETTINGS
-"Tags" = "Tags";
+// SETTINGS - Paramètres
+"Tags" = "marques";
 "Actions" = "Actions";
-"Settings" = "Settings";
-"Auto read tags when app opens" = "Auto read tags when app opens";
-"Auto search for text" = "Auto search for text";
-"Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
+"Settings" = "paramètres";
+"Auto read tags when app opens" = "lecture automatique quand l'app est ouverte";
+"Auto search for text" = "recherche automatique de texte";
+"Auto copy tag data to clipboard" = "copiage automatique de la marque dans le presse-papier";
