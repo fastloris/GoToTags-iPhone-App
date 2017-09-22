@@ -24,14 +24,14 @@
 
 // HOME
 "Interact with Things" = "Interactions avec les Choses";
-"To read an NFC tag or barcode, press one of the buttons below." = "Pour lire une marque "NFC" ou un code barre, appuyez sur l'un des boutons ci-dessous.";
+"To read an NFC tag or barcode, press one of the buttons below." = "Pour lire une marque NFC ou un code barre, appuyez sur l'un des boutons ci-dessous.";
 
 // TAGS
 "There was an error with the decoding of this tag" = "il y a eu une erreur avec le décodage de cette marque";
 
 // NFC
-"Touch top of phone to NFC tag" = "Touche tactile supérieur jusque marque "NFC";
-"This device does not support reading NFC tags" = "Cet appareil ne permet pas la lecture des marques "NFC";
+"Touch top of phone to NFC tag" = "Touche tactile supérieur jusque marque NFC";
+"This device does not support reading NFC tags" = "Cet appareil ne permet pas la lecture des marques NFC";
 "This feature is only available on iOS 11 and up" = "Cette fonctionnalité est valable seulement sur IOS 11 et au delà";
 "NFC unavailable" = "NFC indisponible";
 
