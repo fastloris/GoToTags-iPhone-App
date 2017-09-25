@@ -13,13 +13,13 @@
 "Alert" = "Alerta";
 "Text" = "Texto";
 "Cancel" = "Cancelar";
-"Learn More" = "Learn More";
+"Learn More" = "Aprender más";
 "Error" = "Error";
 
 // NAV
 "Help" = "Ayuda";
 "Shop" = "Tienda";
-"Contact Us" = "Aprender más";
+"Contact Us" = "Contáctenos";
 "About Us" = "Sobre nosotros";
 
 // HOME
