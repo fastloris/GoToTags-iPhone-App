@@ -8,33 +8,33 @@
 /*** Spanish ***/
 
 // GENERAL
-"OK" = "OK";
+"OK" = "Aprobado";
 "Settings" = "Ajustes";
 "Alert" = "Alerta";
 "Text" = "Texto";
 "Cancel" = "Cancelar";
-"Learn More" = "Learn More";
+"Learn More" = "Aprender más";
 "Error" = "Error";
 
 // NAV
 "Help" = "Ayuda";
 "Shop" = "Tienda";
-"Contact Us" = "Contact Us";
-"About Us" = "About Us";
+"Contact Us" = "Contáctenos";
+"About Us" = "Sobre nosotros";
 
 // HOME
-"Interact with Things" = "Interact with Things";
-"To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
+"Interact with Things" = "Interactuar con cosas";
+"To read an NFC tag or scan a barcode, press one of the buttons below." = "Para leer una etiqueta NFC o escanear un código de barras, presione uno de los botones abajo.";
 
 // TAGS
-"An error occured decoding this tag" = "An error occured decoding this tag";
+"An error occured decoding this tag" = "Se ha producido un error al descodificar esta etiqueta";
 
 // NFC
-"Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
-"This feature is only available on iOS 11 and up" = "This feature is only available on iOS 11 and up";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
-"NFC unavailable" = "NFC unavailable";
+"Touch top of phone to NFC tag" = "Toca la parte superior del teléfono con la etiqueta NFC";
+"This device does not support reading NFC tags" = "Este dispositivo no admite la lectura de etiquetas NFC";
+"This feature is only available on iOS 11 and up" = "Esta función sólo está disponible en iOS 11 y superior";
+"This device does not support reading NFC tags" = "Este dispositivo no admite la lectura de etiquetas NFC";
+"NFC unavailable" = "NFC no disponible";
 
 // NFC record types
 "TNF_ABSOLUTE_URI" = "Absolute URI";
@@ -46,19 +46,19 @@
 "TNF_WELL_KNOWN" = "Well Known";
 
 // BARCODE
-"Scan Barcode" = "Scan Barcode";
-"Scanning not supported" = "Scanning not supported";
-"Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
+"Scan Barcode" = "Escanear código de barras";
+"Scanning not supported" = "Escaneado no soportado";
+"Your device does not support barcode scanning; please use a device with a camera." = "Su dispositivo no admite el escaneado de códigos de barras; utilice un dispositivo con una cámara.";
 
 // ACTIONS
-"Text copied to clipboard" = "Text copied to clipboard";
+"Text copied to clipboard" = "Texto copiado al portapapeles";
 "Error" = "Error";
-"An error occured decoding this tag" = "An error occured decoding this tag";
+"An error occured decoding this tag" = "Se ha producido un error al descodificar esta etiqueta";
 
 // SETTINGS
-"Tags" = "Tags";
-"Actions" = "Actions";
-"Settings" = "Settings";
-"Read tag when app opens" = "Read tag when app opens";
-"Auto search for text" = "Auto search for text";
-"Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
+"Tags" = "Etiquetas";
+"Actions" = "Comportamiento";
+"Settings" = "Ajustes";
+"Read tag when app opens" = "Leer la etiqueta cuando se abra la aplicación";
+"Auto search for text" = "Búsqueda automática de texto";
+"Auto copy tag data to clipboard" = "Copia automática de datos de etiquetas en el portapapeles";
