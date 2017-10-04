@@ -1,9 +1,9 @@
-/* 
-  Strings.strings
-  GoToTags
-
-  Copyright © 2017 GoToTags. All rights reserved.
-*/
+/*
+ Strings.strings
+ GoToTags
+ 
+ Copyright © 2017 GoToTags. All rights reserved.
+ */
 
 /*** Italian ***/
 
@@ -27,14 +27,14 @@
 "To read an NFC tag or scan a barcode, press one of the buttons below." = "Per leggere un tag NFC o scansionare un codice a barre, bremi uno dei seguenti bottoni.";
 
 // TAGS
-"An error occured decoding this tag" = "Si è verificato un errore durante la decodifica di questo tag";
+"An error occurred decoding this tag" = "Si è verificato un errore durante la decodifica di questo tag";
 
 // NFC
 "Touch top of phone to NFC tag" = "Tocca la parte superiore del telefono con il tag NFC";
 "This device does not support reading NFC tags" = "Questo dispositivo non supporta la lettura dei tag NFC";
 "This feature is only available on iOS 11 and up" = "Questa funzionalità è disponibile solo su iOS 11 e superiori";
-"This device does not support reading NFC tags" = "Questo dispositivo non supporta la lettura dei tag NFC";
 "NFC unavailable" = "NFC non disponibile";
+"An NFC tag was not detected. NFC tags must be NDEF encoded." = "An NFC tag was not detected. NFC tags must be NDEF encoded.";
 
 // NFC record types
 "TNF_ABSOLUTE_URI" = "URI assoluto";
@@ -52,8 +52,6 @@
 
 // ACTIONS
 "Text copied to clipboard" = "Testo copiato negli appunti";
-"Error" = "Errore";
-"An error occured decoding this tag" = "Si è verificato un errore durante la decodifica di questo tag";
 
 // SETTINGS
 "Tags" = "Tags";

@@ -27,37 +27,36 @@
 "To read an NFC tag or scan a barcode, press one of the buttons below." = "Pour lire une marque NFC ou un code barre, appuyez sur l'un des boutons ci-dessous.";
 
 // TAGS
-"An error occured decoding this tag" = "Il y a eu une erreur avec le décodage de cette marque";
+"An error occurred decoding this tag" = "Une erreur est apparu en décodant la marque";
 
 // NFC
 "Touch top of phone to NFC tag" = "Touche tactile supérieur jusque marque NFC";
 "This device does not support reading NFC tags" = "Cet appareil ne permet pas la lecture des marques NFC";
 "This feature is only available on iOS 11 and up" = "Cette fonctionnalité est valable seulement sur IOS 11 et au delà";
 "NFC unavailable" = "NFC indisponible";
+"An NFC tag was not detected. NFC tags must be NDEF encoded." = "An NFC tag was not detected. NFC tags must be NDEF encoded.";
 
 // NFC record types
-"TNF_ABSOLUTE_URI" = "Absolu URI";
+"TNF_ABSOLUTE_URI" = "TNF Absolu URI";
 "TNF_EMPTY" = "Vide";
-"TNF_EXTERNAL_TYPE" = "Type Externe";
+"TNF_EXTERNAL_TYPE" = "Type externe";
 "TNF_MIME_MEDIA" = "Media MIME";
 "TNF_UNCHANGED" = "Inchangé";
-"TNF_UNKNOWN" = "Type Inconnu";
-"TNF_WELL_KNOWN" = "Bien Connu";
+"TNF_UNKNOWN" = "Type inconnu";
+"TNF_WELL_KNOWN" = "Bien connu";
 
 // BARCODE
-"Scan Barcode" = " Barcode à Scanner";
+"Scan Barcode" = " Barcode à scanner";
 "Scanning not supported" = "Scanning pas supporté";
-"Your device does not support barcode scanning; please use a device with a camera." = "Votre appareil ne supporte pas le scanning des codes barre; veuillez utiliser un appareil avec caméra.";
+"Your device does not support barcode scanning; please use a device with a camera." = "Votre appareil ne supporte pas le scanning des codes barre; Veuillez utiliser un appareil avec caméra.";
 
 // ACTIONS
 "Text copied to clipboard" = "Texte copié dans le presse-papier";
-"Error" = "Erreur";
-"An error occured decoding this tag" = "Une erreur est apparu en décodant la marque";
 
 // SETTINGS
 "Tags" = "Marques";
 "Actions" = "Actions";
 "Settings" = "Paramètres";
 "Read tag when app opens" = "Lecture automatique quand l'app est ouverte";
-"Auto search for text" = "Recherche automatique de texte"; 
+"Auto search for text" = "Recherche automatique de texte";
 "Auto copy tag data to clipboard" = "Copiage automatique de la marque dans le presse-papier";

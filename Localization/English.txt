@@ -27,14 +27,14 @@
 "To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
 
 // TAGS
-"An error occured decoding this tag" = "An error occured decoding this tag";
+"An error occurred decoding this tag" = "An error occurred decoding this tag";
 
 // NFC
 "Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
 "This device does not support reading NFC tags" = "This device does not support reading NFC tags";
 "This feature is only available on iOS 11 and up" = "This feature is only available on iOS 11 and up";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
 "NFC unavailable" = "NFC unavailable";
+"An NFC tag was not detected. NFC tags must be NDEF encoded." = "An NFC tag was not detected. NFC tags must be NDEF encoded.";
 
 // NFC record types
 "TNF_ABSOLUTE_URI" = "Absolute URI";
@@ -60,4 +60,3 @@
 "Read tag when app opens" = "Read tag when app opens";
 "Auto search for text" = "Auto search for text";
 "Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
-
