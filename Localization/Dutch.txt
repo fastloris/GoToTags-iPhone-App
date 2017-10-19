@@ -8,55 +8,55 @@
 /*** Dutch ***/
 
 // GENERAL
-"OK" = "OK";
+"OK" = "Oké";
 "Settings" = "Instellingen";
-"Alert" = "Waarschuwing";
+"Alert" = "Waarschuwingssignal";
 "Text" = "Tekst";
 "Cancel" = "Annuleren";
-"Learn More" = "Learn More";
+"Learn More" = "Meer Informatie";
 "Error" = "Fout";
 
 // NAV
-"Help" = "Helpen";
+"Help" = "Hulp";
 "Shop" = "Winkel";
-"Contact Us" = "Contact Us";
-"About Us" = "About Us";
+"Contact Us" = "Kontakt Ons";
+"About Us" = "Over Ons";
 
 // HOME
-"Interact with Things" = "Interact with Things";
-"To read an NFC tag or scan a barcode, press one of the buttons below." = "To read an NFC tag or scan a barcode, press one of the buttons below.";
+"Interact with Things" = "Omgaan met Dingen";
+"To read an NFC tag or scan a barcode, press one of the buttons below." = "Om een NFC tag of barcode te lezen, druk een van de knoppen beneden.";
 
 // TAGS
-"An error occurred decoding this tag" = "An error occurred decoding this tag";
+"An error occurred decoding this tag" = "Een fout is gebeurd met deze tag";
 
 // NFC
-"Touch top of phone to NFC tag" = "Touch top of phone to NFC tag";
-"This device does not support reading NFC tags" = "This device does not support reading NFC tags";
-"This feature is only available on iOS 11 and up" = "This feature is only available on iOS 11 and up";
-"NFC unavailable" = "NFC unavailable";
-"An NFC tag was not detected. NFC tags must be NDEF encoded." = "An NFC tag was not detected. NFC tags must be NDEF encoded.";
+"Touch top of phone to NFC tag" = "Druk bovenkant van mobile om NFC te taggen";
+"This device does not support reading NFC tags" = "Dit apparat steunt NFC tags niet";
+"This feature is only available on iOS 11 and up" = "Dit is alleen beschikbaar op iOS 11 en nieuwer";
+"NFC unavailable" = "NFC onbeschikbaar";
+"An NFC tag was not detected. NFC tags must be NDEF encoded." = "Geen NFC tag is gedetecteerd. NFC tags moet NDEF encoded zijn.";
 
 // NFC record types
-"TNF_ABSOLUTE_URI" = "Absolute URI";
-"TNF_EMPTY" = "Empty";
-"TNF_EXTERNAL_TYPE" = "External Type";
+"TNF_ABSOLUTE_URI" = "Absoluut URI";
+"TNF_EMPTY" = "Leeg";
+"TNF_EXTERNAL_TYPE" = "Externaal Type";
 "TNF_MIME_MEDIA" = "MIME Type";
-"TNF_UNCHANGED" = "Unchanged";
-"TNF_UNKNOWN" = "Unknown Type";
-"TNF_WELL_KNOWN" = "Well Known";
+"TNF_UNCHANGED" = "Niet Veranderd";
+"TNF_UNKNOWN" = "Onbekend Type";
+"TNF_WELL_KNOWN" = "Wel Bekend";
 
 // BARCODE
 "Scan Barcode" = "Barcode Scannen";
-"Scanning not supported" = "Scanning not supported";
-"Your device does not support barcode scanning; please use a device with a camera." = "Your device does not support barcode scanning; please use a device with a camera.";
+"Scanning not supported" = "Scannen niet gesteund";
+"Your device does not support barcode scanning; please use a device with a camera." = "Jouw apparat steunt scannen niet.  Gebruik een apparat met een camera";
 
 // ACTIONS
-"Text copied to clipboard" = "Text copied to clipboard";
+"Text copied to clipboard" = "Text gekopieerd naar clipboard";
 
 // SETTINGS
 "Tags" = "Tags";
-"Actions" = "Actions";
-"Settings" = "Settings";
-"Read tag when app opens" = "Read tag when app opens";
-"Auto search for text" = "Auto search for text";
-"Auto copy tag data to clipboard" = "Auto copy tag data to clipboard";
+"Actions" = "Acties";
+"Settings" = "Instellingen";
+"Read tag when app opens" = "Lees tag wanneer app opent";
+"Auto search for text" = "Auto zoek voor tekst";
+"Auto copy tag data to clipboard" = "Auto kopieer tag data naar clipboard";
